@@ -1,6 +1,4 @@
-# Peer-graded-Assignment-Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
-
-## Analyzing-Historical-Stock-and-Revenue-Data-and-Building-Dashboard-with-Python
+# Analyzing-Historical-Stock-and-Revenue-Data-and-Building-Dashboard-with-Python
 
 ### Project Overview
 
